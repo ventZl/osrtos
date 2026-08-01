@@ -25,8 +25,8 @@ relatedProjects:
 - quntis-led-controller
 - smart-lighting-system-using-esp32
 - esp32-32x32-rgb-matrix-controller
+- esp32-plc
 - q-sensor-multi-functional-zigbee-air-quality-sensor
-- moonlight-8266
 ---
 
 ## Overview

@@ -30,11 +30,11 @@ createdAt: '2026-01-04'
 updatedAt: '2026-01-04'
 relatedProjects:
 - m5stack-cardputer-virtual-repl
+- micropython-on-the-super-nintendo
 - europi
 - patternflow
 - retro-video-synthesizer-esp32-pure-data
-- esp32-custom-hardware-synthesizer
-- esp32-mp3
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 ---
 
 ## Overview

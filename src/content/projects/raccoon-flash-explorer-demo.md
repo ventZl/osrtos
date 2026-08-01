@@ -42,8 +42,8 @@ relatedProjects:
 - fileferry-click2flash
 - tab5-launcher
 - stm32-bootloader
+- xiao-nrf52-standalone-ble-dfu-updater
 - esp32-bus-expander
-- tock-bootloader
 ---
 
 ## High-Speed Flash Programming for the STC8H8K64U

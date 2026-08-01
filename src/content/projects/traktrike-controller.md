@@ -21,6 +21,13 @@ topics:
 isShow: true
 createdAt: '2026-07-19T07:16:21+00:00'
 updatedAt: '2026-07-19T07:16:21+00:00'
+relatedProjects:
+- xiaomi-cybergear-arduino-library
+- cybergear-ros2-controller
+- deck
+- i2cwrapper
+- bmw-e90-can-cluster-arduino-project
+- bmw-idrive-controller-can-bus-interpreter
 ---
 
 The TrakTrike-Controller is a specialized embedded solution born from real-world necessity. Originally developed for the TrakTrike—an electrically-driven dual-track sit-on vehicle featured at EMF Camp 2022—this project addresses a common hurdle in DIY electric vehicle builds: the trade-off between motor controller cost and control precision.

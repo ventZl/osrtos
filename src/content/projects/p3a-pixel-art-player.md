@@ -31,11 +31,11 @@ createdAt: '2026-01-22'
 updatedAt: '2026-01-22'
 relatedProjects:
 - printpoop-retro-pixel-smart-display-for-bambu-lab-a1
+- esp32-s3-mjpeg-video-player
 - circuitpal
 - bitmap16-dx
 - patternflow
 - sonosesp-esp32-p4-sonos-controller
-- esp32-web-radio-evo3
 ---
 
 ## Overview

@@ -33,7 +33,7 @@ relatedProjects:
 - bruce-firmware
 - infiltra-firmware
 - esp-hack-fw
-- m5-crystal
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 ---
 
 ## Overview

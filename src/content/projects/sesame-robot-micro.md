@@ -15,11 +15,11 @@ createdAt: '2026-03-23'
 updatedAt: '2026-03-23'
 relatedProjects:
 - robomates-firmware
+- open-decabot
 - qbit
 - scara-drawing-robot
 - cuybot-v1-opensource-smartcar-project
 - hexapod
-- kawaii-useless-robot
 ---
 
 ## Overview

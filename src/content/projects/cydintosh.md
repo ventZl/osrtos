@@ -30,8 +30,8 @@ relatedProjects:
 - galagino-for-platformio
 - anemoia-esp32-nes-emulator
 - tiny386
+- berbel-bfb-6bt-ble-remote-control-emulator
 - anemoia-esp32
-- esp32-marauder-for-cheap-yellow-display-cyd
 ---
 
 ## Overview

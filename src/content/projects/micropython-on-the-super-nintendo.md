@@ -22,6 +22,13 @@ topics:
 isShow: false
 createdAt: '2026-07-20T10:47:49+00:00'
 updatedAt: '2026-07-20T10:47:49+00:00'
+relatedProjects:
+- micropython-for-flipper-zero
+- anemoia-esp32
+- m5stack-cardputer-virtual-repl
+- diy-arcade-machine
+- esp32-s3-nes-emulator
+- msx1-emulator-for-raspberry-pi-pico
 ---
 
 ## Bringing Python to 16-bit Legend

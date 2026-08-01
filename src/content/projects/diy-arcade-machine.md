@@ -32,9 +32,9 @@ relatedProjects:
 - galagino-for-platformio
 - pico-claw-machine
 - msx1-emulator-for-raspberry-pi-pico
+- micropython-on-the-super-nintendo
 - oficina-de-circuitpython
 - pico-smsplus-sega-master-system-and-game-gear-emulator
-- rp2040-projects-by-armstrong-subero
 ---
 
 ## Overview

@@ -8,9 +8,9 @@ summary: RT-Thread is a modular, object-oriented real-time operating system (RTO
   and standardized interfaces like POSIX and CMSIS.
 codeUrl: https://github.com/RT-Thread/rt-thread
 siteUrl: http://www.rt-thread.org/
-star: 12112
+star: 12131
 version: v5.2.2
-lastUpdated: '2026-07-17'
+lastUpdated: '2026-07-31'
 components:
 - GUI
 - FileSystem
@@ -65,7 +65,7 @@ libraries:
 - lwext4
 - SQLite
 createdAt: '2025-12-24'
-updatedAt: '2026-07-19'
+updatedAt: '2026-08-01'
 ---
 
 ### Features

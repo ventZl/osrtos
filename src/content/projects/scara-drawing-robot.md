@@ -20,9 +20,9 @@ relatedProjects:
 - roarm-m2-robotic-arm-control-firmware
 - sesame-robot-micro
 - hexapod
+- open-decabot
 - cuybot-v1-opensource-smartcar-project
 - quadruped-robot
-- kawaii-useless-robot
 ---
 
 ## Overview

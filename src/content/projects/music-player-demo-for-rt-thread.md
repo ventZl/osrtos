@@ -23,8 +23,8 @@ relatedProjects:
 - esp32-st7789v-ft6236u-arduino-lvgl-demo
 - melody-machine
 - lumia-esp32
+- esp32-s3-mjpeg-video-player
 - tinyradio9-for-wt32-sc01-plus
-- lvgl-demo-embarcadores
 ---
 
 ## Overview

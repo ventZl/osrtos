@@ -32,7 +32,7 @@ relatedProjects:
 - osillyscope
 - pd240w
 - noteit-uart-datalogger
-- esp32-remote-for-victron
+- web3-pi-ups
 ---
 
 The USB PD Tester is a specialized monitoring and triggering device designed to interface with USB Power Delivery systems. It provides a practical way to test various USB Type-C PD power supplies and cables by acting as a sink device. Beyond simple testing, the device functions as a versatile variable power supply, enabling users to select fixed or programmable voltages to power external projects via a screw terminal.

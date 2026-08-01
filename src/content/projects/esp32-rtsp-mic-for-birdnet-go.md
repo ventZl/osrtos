@@ -35,9 +35,9 @@ relatedProjects:
 - esp32-rtsp-microphone-for-birdnet
 - esp32-i2s-microphone-stream
 - audio-stream-server-for-m5cardputer
+- aes67-ravenna-for-esp32-p4
 - esp32-cam-mjpeg-streaming-and-sd-capture
 - birdnet-for-stm32
-- esp32-rtspserver
 ---
 
 ## High-Performance Audio Streaming for Avian Monitoring

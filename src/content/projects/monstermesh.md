@@ -39,6 +39,13 @@ topics:
 isShow: false
 createdAt: '2026-07-20T10:48:21+00:00'
 updatedAt: '2026-07-20T10:48:21+00:00'
+relatedProjects:
+- cardputer-game-station
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
+- m5stack-tab5-game-watch-emulator
+- picopeanutgb-game-boy-emulator-for-rp2350
+- meshtnc
+- lvgl-game-boy-advance-emulator
 ---
 
 ## Turning Mesh Networking into a Living Game World

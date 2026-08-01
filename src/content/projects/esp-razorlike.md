@@ -23,10 +23,10 @@ updatedAt: '2025-12-28'
 relatedProjects:
 - esp8266-mywidget
 - esp-fs-webserver
+- risaldash
 - configassist-esp32-esp8266
 - effortless-spiffs
 - arduino-esp-utils
-- esp8266-micropython-development
 ---
 
 ## Overview

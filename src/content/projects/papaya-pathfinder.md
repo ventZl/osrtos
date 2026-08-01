@@ -30,9 +30,9 @@ relatedProjects:
 - openrover-robotic-platform
 - hexapod
 - pyespcar-micropython-esp32-wifi-car
+- open-decabot
 - andino-open-source-ros-2-educational-robot
 - cuybot-v1-opensource-smartcar-project
-- sesame-robot-micro
 ---
 
 ## Overview

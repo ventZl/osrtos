@@ -20,6 +20,13 @@ topics:
 isShow: false
 createdAt: '2026-07-29T04:14:37+00:00'
 updatedAt: '2026-07-29T04:14:37+00:00'
+relatedProjects:
+- tensorflow-lite-micro-for-rt-thread
+- edgeai-utensor-embedded-rtos-for-arm-processors
+- infuse-iot-sdk
+- espai-unified-ai-api-client-for-esp32
+- zephyr-rtos-ai-harness
+- onesdk-a-unified-ai-access-sdk-for-the-client-side
 ---
 
 The integration of machine learning into embedded systems often requires navigating complex build environments and managing large sets of dependencies. The Edge Impulse SDK Zephyr module simplifies this process by bringing high-performance digital signal processing (DSP) and machine learning (ML) inferencing directly into the Zephyr RTOS ecosystem. By packaging the SDK as a native Zephyr module, developers can manage ML blocks and learning models with the same tools they use for their firmware, ensuring consistent builds across a wide variety of microcontrollers.

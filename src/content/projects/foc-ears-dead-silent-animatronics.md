@@ -21,12 +21,12 @@ isShow: false
 createdAt: '2026-01-15'
 updatedAt: '2026-01-15'
 relatedProjects:
+- foc-ears
 - foc-pocket
 - esp32-virtual-cat-project
 - lumifur-controller
 - voice-controlled-ground-and-aerial-robot
 - verhobot
-- opentoys
 ---
 
 # FOC Ears: Dead Silent Animatronics

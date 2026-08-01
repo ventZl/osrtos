@@ -23,10 +23,10 @@ updatedAt: '2026-06-25T23:48:36+00:00'
 relatedProjects:
 - esp-nus-high-throughput-ble-5-uart-bridge
 - openhaystack-zephyr-firmware
+- blerpc
 - mbed-ble-gap-scanner
 - nrf54l15-connect-kit
 - sensilo-ble-sensor-node
-- zephyr-coaps-client-with-tinydtls
 ---
 
 Modern wireless environments are crowded with Bluetooth Low Energy (BLE) signals from everything from smartwatches to asset trackers. Capturing this data efficiently requires a system that can keep up with high-frequency bursts without missing critical packets. This BLE Sniffer is a specialized utility built on the Zephyr RTOS, designed to provide a high-performance, passive monitoring solution for the latest generation of Nordic Semiconductor hardware.

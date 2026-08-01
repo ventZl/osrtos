@@ -28,9 +28,9 @@ relatedProjects:
 - esp32-cam-mjpeg-streaming-and-sd-capture
 - cheap-yellow-display-video-player-esp32-2432s028
 - esp32-mjpeg-multiclient-streaming-server
+- esp32-s3-mjpeg-video-player
 - wifi-remote-display-adv
 - esp32-rtspserver
-- deck
 ---
 
 ## Streaming Video to the Smalltv-pro

@@ -22,12 +22,12 @@ isShow: true
 createdAt: '2026-03-31'
 updatedAt: '2026-03-31'
 relatedProjects:
+- berbel-bfb-6bt-ble-remote-control-emulator
 - esphome-components-for-miot-devices
 - hunter-douglas-powerview-ble-for-home-assistant
 - electricitydisplay-mqtt-remote-control-for-esp8266-esp32
 - bmw-idrive-controller-can-bus-interpreter
 - simplebus2-mqtt-bridge
-- homey-smart-home-controllers
 ---
 
 ## Unlocking the Inner Workings of BSH Appliances

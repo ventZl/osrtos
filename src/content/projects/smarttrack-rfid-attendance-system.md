@@ -28,7 +28,7 @@ relatedProjects:
 - espmonitor-iot-environmental-monitoring-system
 - espmonitor-iot-environment-monitoring-system
 - esp32-weatherstationrtc
-- smart-beehive-monitoring-system
+- clawdmeter-plus
 ---
 
 Automating attendance tracking is a common challenge in educational and corporate environments. SmartTrack offers a streamlined solution by leveraging the ESP32's Wi-Fi capabilities and RFID technology to create a connected logging system that eliminates manual paperwork.

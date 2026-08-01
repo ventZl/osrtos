@@ -20,6 +20,13 @@ topics:
 isShow: true
 createdAt: '2026-07-19T07:16:00+00:00'
 updatedAt: '2026-07-19T07:16:00+00:00'
+relatedProjects:
+- hexapod
+- sesame-robot-micro
+- openrover-robotic-platform
+- pyespcar-micropython-esp32-wifi-car
+- qbit
+- papaya-pathfinder
 ---
 
 Open Decabot is an open-source robotics project designed to lower the barrier to entry for building and programming mobile robots. Developed with a focus on simplicity and modularity, the platform utilizes the popular Wemos D1 Mini form factor, leveraging the ESP8266 microcontroller's native Wi-Fi capabilities to create an Internet of Things (IoT) ready educational tool.

@@ -23,9 +23,9 @@ relatedProjects:
 - bluetooth-ducky-esp32-hid-injection-tool
 - wifiphisher-for-esp32
 - marauder-centauri
+- nrsuite
 - evil-bw16-webui
 - toothpaste
-- neoducky
 ---
 
 ## Overview

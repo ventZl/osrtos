@@ -39,7 +39,7 @@ relatedProjects:
 - clawy
 - deskpet
 - claude-buddy-pico
-- nebaura-labs-mote
+- clawdmeter-plus
 ---
 
 ## Your AI Coding Partner in Physical Form

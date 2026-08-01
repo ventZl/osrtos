@@ -22,6 +22,13 @@ topics:
 isShow: true
 createdAt: '2026-07-22T13:56:36+00:00'
 updatedAt: '2026-07-22T13:56:36+00:00'
+relatedProjects:
+- foc-ears-dead-silent-animatronics
+- esp32-virtual-cat-project
+- pixel-pets
+- foc-pocket
+- lumifur-controller
+- cuybot-v1-opensource-smartcar-project
 ---
 
 FOC Ears is a project dedicated to creating truly silent animatronic cat ears. Traditional designs often rely on RC airplane servos, which are notoriously noisy and can disrupt conversation. By transitioning to brushless motors and utilizing Field Oriented Control (FOC) via the SimpleFOC library, this prototype achieves near-silent operation suitable for wearable animatronics.

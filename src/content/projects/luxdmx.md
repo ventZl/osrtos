@@ -39,6 +39,13 @@ topics:
 isShow: true
 createdAt: '2026-07-19T07:18:39+00:00'
 updatedAt: '2026-07-19T07:18:39+00:00'
+relatedProjects:
+- rp2040-dmxsun
+- hyperk
+- genius-gateway
+- rgblight-iot-rgb-led-controller
+- project-aura
+- borneoiot-professional-aquarium-lighting-platform
 ---
 
 LuxDMX is an open-source gateway that bridges Art-Net and sACN (E1.31) protocols to DMX512, targeting the ESP32 and ESP32-S3 platforms. Unlike standard DMX nodes, it is designed to function as both a high-performance network node and a live diagnostic tool. It allows users to monitor all 512 DMX channels in real time through a browser, providing immediate feedback on sender frame rates, inter-frame jitter, and potential universe conflicts where multiple consoles might be competing for control.

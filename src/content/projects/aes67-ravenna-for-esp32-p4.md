@@ -24,6 +24,13 @@ topics:
 isShow: false
 createdAt: '2026-07-20T10:47:36+00:00'
 updatedAt: '2026-07-20T10:47:36+00:00'
+relatedProjects:
+- esp32-rtsp-microphone-for-birdnet
+- esp32-rtsp-mic-for-birdnet-go
+- esp32-a2dp-sink-with-ldac-aptx-hd-and-aac-support
+- esper-cdp
+- high-fidelity-esp32-bluetooth-audio-sink-with-premium-codecs
+- sonosesp-esp32-p4-sonos-controller
 ---
 
 The transition of professional audio to IP-based networks has traditionally required significant processing power, often necessitating dedicated Linux-based hardware or expensive FPGAs. The AES67/RAVENNA implementation for the ESP32-P4 changes this landscape by providing a robust, low-latency audio-over-IP stack for a dual-core RISC-V microcontroller. By leveraging the specific hardware capabilities of the ESP32-P4, this project achieves performance levels previously reserved for much more complex systems.

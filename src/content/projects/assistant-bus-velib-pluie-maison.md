@@ -17,10 +17,10 @@ updatedAt: '2025-12-27'
 relatedProjects:
 - esptimecast
 - esp8266-esp32-spotify-oled-display
+- clawdmeter-plus
 - esphome-e-ink-4-color-dashboard
 - esp32-cyd-weather-station-with-3-day-forecast
 - astronomy-micro-station
-- geekmagic-smalltv-esp8266-firmware
 ---
 
 ## A Smart Display for the Parisian Commuter

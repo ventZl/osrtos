@@ -32,7 +32,7 @@ relatedProjects:
 - xterminal-esp32-handheld
 - lvgl-terminal-for-pinephone-on-apache-nuttx
 - acid-drop-custom-firmware-for-lilygo-t-deck
-- electricitydisplay-mqtt-remote-control-for-esp8266-esp32
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 ---
 
 PocketSSH is a specialized terminal client designed to turn the ESP32-S3 T-Deck Plus into a functional, pocket-sized SSH workstation. By combining the secure SSH2 protocol with the unique hardware capabilities of the T-Deck Plus—including its physical keyboard, trackball, and touch screen—PocketSSH enables developers and system administrators to manage remote servers from anywhere.

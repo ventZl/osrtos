@@ -23,8 +23,8 @@ relatedProjects:
 - c-quiz-on-e-ink-display
 - e-paper-climate-logger-weathergotchi
 - e-ink-meeting-room-schedule-display
+- clawdmeter-plus
 - esp-e-paper-component
-- paperlesspaper-e-paper-photo-frame-hardware
 ---
 
 ## Showcasing Your Commit Streaks in Low Power

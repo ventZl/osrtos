@@ -36,7 +36,7 @@ relatedProjects:
 - hd2-macropad
 - kmk-firmware
 - aw-1-keyboard
-- claude-buddy-pico
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 ---
 
 ## Overview

@@ -20,10 +20,10 @@ updatedAt: '2026-01-23'
 relatedProjects:
 - retrofit-electronic-clock-with-raspberry-pi-pico-w
 - dcf77-transmitter
+- esp8266-secure-weather-clock-tj-56-654
 - old-train-station-clock-revival
 - diy-weather-clock-firmware
 - 7-segment-clock
-- elekstube-ips-custom-firmware
 ---
 
 ## Overview

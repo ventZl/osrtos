@@ -24,10 +24,10 @@ updatedAt: '2026-01-20'
 relatedProjects:
 - espui
 - lvgl-emscripten-port
+- viewowl
 - pixelforge
 - betta-ha-panel
 - sc01-plus-hmi-example-with-squareline-studio
-- esp32-tux
 ---
 
 ## Introduction to DisplayKit

@@ -39,9 +39,9 @@ relatedProjects:
 - cuybot-v1-opensource-smartcar-project
 - smart-medibox
 - qbit
+- open-decabot
 - esp32-mqtt-motor-control
 - sesame-robot-micro
-- scara-drawing-robot
 ---
 
 ## The Tiny Bot for Natural Mornings

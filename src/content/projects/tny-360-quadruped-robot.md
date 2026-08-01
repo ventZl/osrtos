@@ -31,9 +31,9 @@ relatedProjects:
 - stm32f103-quadruped-robot
 - quadruped-robot
 - hexapod
+- open-decabot
 - opentoys
 - voice-controlled-ground-and-aerial-robot
-- qbit
 ---
 
 The TNY-360 is a sophisticated, open-source quadruped robot designed to bridge the gap between hobbyist robotics and advanced research platforms. Built around the powerful ESP32-S3 N16R8, this compact robot dog is engineered for high-performance motion, edge computing, and human-robot interaction (HRI). By combining a custom-designed 3D-printable chassis with a suite of advanced sensors, the TNY-360 provides a versatile foundation for exploring quadrupedal locomotion and artificial intelligence.

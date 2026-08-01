@@ -23,12 +23,12 @@ image: /202603/bbMonitor.webp
 createdAt: '2026-03-02'
 updatedAt: '2026-03-02'
 relatedProjects:
+- clawdmeter-plus
 - claudegauge
 - esp32-weatherstationrtc
 - alfa-romeo-giulia-dashboard-info-display-for-esp32-s3
 - euc-dash-esp32-dashboard
 - bitclock
-- espmonitor-iot-environment-monitoring-system
 ---
 
 # bbMonitor: Bringing Vintage Gauges to Modern PC Monitoring

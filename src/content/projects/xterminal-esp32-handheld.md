@@ -21,8 +21,8 @@ relatedProjects:
 - acid-drop-custom-firmware-for-lilygo-t-deck
 - esp32-custom-hardware-synthesizer
 - lvgl-watch-firmware-for-open-smartwatch
+- e-os-esp32-s3-handheld-console
 - esp32-st7789v-ft6236u-arduino-lvgl-demo
-- esp32-mp3
 ---
 
 ## Overview

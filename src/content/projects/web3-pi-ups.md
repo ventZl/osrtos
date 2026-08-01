@@ -29,6 +29,13 @@ topics:
 isShow: true
 createdAt: '2026-07-22T13:59:15+00:00'
 updatedAt: '2026-07-22T13:59:15+00:00'
+relatedProjects:
+- pd240w
+- esp32-remote-for-victron
+- usb-pd-tester
+- usb-pd-adapter
+- light-watcher
+- ch32v003-usb-meter
 ---
 
 The Web3 Pi UPS is a purpose-built, compact DC UPS designed specifically for the Raspberry Pi 5. Born from the Web3 Pi project—a platform for running Ethereum nodes—it addresses a critical gap in the market. Running a blockchain node requires 24/7 uptime; power outages can corrupt databases and lead to financial penalties for solo stakers. This project provides a robust solution that actually fits the Raspberry Pi form factor.

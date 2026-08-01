@@ -27,10 +27,10 @@ updatedAt: '2026-06-09T00:26:55+00:00'
 relatedProjects:
 - esp32-flight-tracker
 - bbmonitor
+- wavesight
 - wifiexe-esp32-s3-based-badusb
 - deck
 - wifi-remote-display-adv
-- lilygo-t-display-s3-boilerplate
 ---
 
 ## Overview

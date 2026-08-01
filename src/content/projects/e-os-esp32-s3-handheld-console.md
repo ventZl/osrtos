@@ -28,6 +28,13 @@ topics:
 isShow: true
 createdAt: '2026-07-29T04:17:21+00:00'
 updatedAt: '2026-07-29T04:17:21+00:00'
+relatedProjects:
+- stm32-pocket-game-dev-console
+- lilka-diy-console
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
+- xterminal-esp32-handheld
+- esp32berry
+- catos
 ---
 
 E-OS is a comprehensive handheld console project developed from the ground up using the ESP32-S3 microcontroller. Moving away from pre-built UI frameworks or standard emulators, this project implements a custom operating system and a suite of game engines written in C++ specifically for this hardware configuration. The result is a highly optimized, dual-screen gaming experience that leverages the full power of the ESP32-S3 silicon.

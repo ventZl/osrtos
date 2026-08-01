@@ -22,10 +22,10 @@ updatedAt: '2026-01-22'
 relatedProjects:
 - gesture-detecting-macro-keyboard
 - hd2-macropad
+- berbel-bfb-6bt-ble-remote-control-emulator
 - eight-sleep-control-with-m5stack-atoms3
 - blubutton
 - esphome-cosori-kettle-ble-component
-- esp32-jarolift-controller
 ---
 
 # Buttfinity: Bringing Smart Controls to Gridfinity

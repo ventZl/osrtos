@@ -40,9 +40,9 @@ relatedProjects:
 - twatch-v3-firmware-for-esp32
 - esphome-cosori-kettle-ble-component
 - esphome-tesla-ble
+- berbel-bfb-6bt-ble-remote-control-emulator
 - hunter-douglas-powerview-ble-for-home-assistant
 - openhrstrap-open-source-esp32-heart-rate-tracker
-- m5stack-atoms3-nanoc6-btproxy
 ---
 
 ## Modernizing Fitness Hardware with ESPHome

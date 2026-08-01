@@ -19,12 +19,12 @@ lastUpdated: '2018-04-24'
 createdAt: '2025-12-27'
 updatedAt: '2025-12-27'
 relatedProjects:
+- monstermesh
 - pixelroot32-game-engine
 - esp32-pseudo-3d-racing-game
 - esp32-rex-dinosaur-game-in-rust
 - gamepad-ps211
 - m5stack-tab5-game-watch-emulator
-- stm32l476g-discovery-rtos-sensor-project
 ---
 
 ## Exploring the ECE 2035 RPG Game

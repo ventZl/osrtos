@@ -42,8 +42,8 @@ relatedProjects:
 - arduino-serial-ble
 - golden-gate
 - mbed-ble-gap-scanner
+- blerpc
 - nrf-connect-sdk-midi
-- esp32-ble-uart-mx
 ---
 
 Modern mobile applications often require sophisticated Bluetooth capabilities that go beyond simple data transfer. Whether it’s building a mesh network, connecting to specialized medical sensors, or transforming a smartphone into a peripheral for other devices, developers need a robust toolset. **munim-bluetooth** emerges as a comprehensive solution for React Native developers, offering a high-performance bridge to native Bluetooth stacks on both iOS and Android.

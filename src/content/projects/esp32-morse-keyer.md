@@ -27,12 +27,12 @@ isShow: true
 createdAt: '2026-05-31T13:48:35+00:00'
 updatedAt: '2026-05-31T13:48:35+00:00'
 relatedProjects:
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 - nimble-hid-keyboard-and-mouse-example-for-esp32
 - esp32-s3-usb-to-ble-keyboard-bridge
 - gesture-detecting-macro-keyboard
 - m5-keyboard-and-mouse-emulator
 - aw-1-keyboard
-- bluetooth-ducky-esp32-hid-injection-tool
 ---
 
 ## Turning Dots and Dashes into Modern Keystrokes

@@ -23,12 +23,12 @@ image: /202603/wardriver3000.webp
 createdAt: '2026-03-17'
 updatedAt: '2026-03-17'
 relatedProjects:
+- cardputer-wardriver
 - ghostble
 - plume-m5cardputer-adv-edition
 - flock-detector-3-0
 - esp32-sniffer
 - esp32-c5-its-logger
-- circuitpal
 ---
 
 The wardriver3000 is a specialized portable tool designed for enthusiasts and security researchers interested in wireless network mapping. By combining Wi-Fi scanning capabilities with precise GPS positioning, the device allows users to catalog wireless access points while on the move. The collected data—including SSIDs, signal strength, and geographic coordinates—can be exported and uploaded to platforms like Wigle.net to contribute to global wireless network maps.

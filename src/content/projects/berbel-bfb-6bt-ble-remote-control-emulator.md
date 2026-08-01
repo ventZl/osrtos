@@ -27,6 +27,13 @@ topics:
 isShow: false
 createdAt: '2026-07-19T07:14:43+00:00'
 updatedAt: '2026-07-19T07:14:43+00:00'
+relatedProjects:
+- hunter-douglas-powerview-ble-for-home-assistant
+- esphome-cosori-kettle-ble-component
+- quntis-led-controller
+- esp32-controller-for-charlton-jenrick-fireplace
+- bsh-home-appliances-d-bus-interface
+- omote-open-universal-remote
 ---
 
 Modern kitchen hoods from Berbel, specifically those equipped with Berbel Connect 2.0, offer wireless control via the BFB 6bT Bluetooth Low Energy (BLE) remote. While convenient, these proprietary systems often lack native smart home integration. This project bridges that gap by providing a full-featured emulator running on an ESP32, allowing users to control their hoods through MQTT and Home Assistant.

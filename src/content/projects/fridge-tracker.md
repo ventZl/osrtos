@@ -30,6 +30,13 @@ topics:
 isShow: true
 createdAt: '2026-07-31T14:19:17+00:00'
 updatedAt: '2026-07-31T14:19:17+00:00'
+relatedProjects:
+- e-ink-assist-screen
+- esp-e-paper-component
+- tibber-price-e-ink-display
+- git-contributions-e-ink-display
+- readmepaper-esp32-7-color-e-paper-display-project
+- 7-color-e-paper-digital-photo-frame
 ---
 
 The Fridge Tracker (鲜知贴) is a sophisticated, source-available project designed to bring order to household inventory management. By combining the low-power benefits of e-paper displays with the versatility of the ESP32 microcontroller, it provides a persistent, high-visibility reminder of what’s in your fridge, when it expires, and where it’s stored. 

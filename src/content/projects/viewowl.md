@@ -27,6 +27,13 @@ topics:
 isShow: false
 createdAt: '2026-07-20T10:48:52+00:00'
 updatedAt: '2026-07-20T10:48:52+00:00'
+relatedProjects:
+- netshlix
+- esp-e-paper-component
+- displaykit
+- wifi-remote-display-adv
+- pixel-frame
+- e-ink-assist-screen
 ---
 
 ## Bridging the Gap Between Web Design and Embedded Displays

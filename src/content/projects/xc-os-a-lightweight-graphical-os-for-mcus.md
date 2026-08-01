@@ -25,10 +25,10 @@ updatedAt: '2026-01-04'
 relatedProjects:
 - minios-esp
 - lua-rtos-for-esp32
+- nucleoos
 - smolos
 - dnx-rtos
 - lekaos
-- micropython-and-lvgl-firmware-for-esp32
 ---
 
 XC-OS is a sophisticated graphical operating system designed for resource-constrained microcontrollers. By integrating the FreeRTOS kernel with the LVGL (formerly LittlevGL) UI framework, it creates a desktop-like experience on embedded hardware without requiring external RAM or Flash memory expansion.

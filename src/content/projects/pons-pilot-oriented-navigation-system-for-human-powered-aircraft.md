@@ -23,11 +23,11 @@ createdAt: '2026-02-28'
 updatedAt: '2026-02-28'
 relatedProjects:
 - esp32-flight-tracker
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 - james-rocket-controller
 - plane-radar
 - nearplane-adsb-tracker
 - protoflight
-- freevario
 ---
 
 ## Overview

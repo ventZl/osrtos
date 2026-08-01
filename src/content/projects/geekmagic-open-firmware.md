@@ -30,7 +30,7 @@ relatedProjects:
 - open-display-firmware
 - elekstube-ips-custom-firmware
 - openhasp-firmware
-- sonoff-http-firmware
+- esp8266-secure-weather-clock-tj-56-654
 ---
 
 The GeekMagic Open Firmware project is a community-driven replacement for the stock software found on the HelloCubic Lite and Smalltv-Ultra devices. These compact, ESP8266-powered gadgets are popular for their 3D-printed cases and vibrant LCD screens, often used as desktop clocks or information displays. This firmware aims to provide a clean, extensible, and fully open-source alternative to the original factory code.

@@ -30,7 +30,7 @@ relatedProjects:
 - mongoose-os-configurable-sensor-node
 - mbed-os-6-stm32-iot-ethernet-controller
 - rp2040-dmxsun
-- modbus-tcp-for-stm32f407
+- esp32-plc
 ---
 
 The **Open Modbus OM-64DO** is a robust, industrial-grade expansion module designed to provide 64 low-side digital outputs via the Modbus RTU protocol. Built around the STM32G031 microcontroller, this module is specifically engineered for applications requiring high-density I/O control, such as PLC expansion, building automation, and distributed control systems.

@@ -29,7 +29,7 @@ relatedProjects:
 - onesdk-a-unified-ai-access-sdk-for-the-client-side
 - iotjs-plus-tizenrt
 - swarmsense-iot-platform-with-mongoose-os
-- edgeai-utensor-embedded-rtos-for-arm-processors
+- edge-impulse-sdk-zephyr-module
 ---
 
 ## Bridging the Gap in Industrial Data

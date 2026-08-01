@@ -27,9 +27,9 @@ relatedProjects:
 - deck
 - clawdmeter
 - animated-gif-on-a-320x240-lcd-display-ili9341-with-the-esp32
+- clawdmeter-plus
 - esp32-p4-home-assistant-display
 - xiaozhi-ai-desk-buddy-esp32-s3
-- lvgl-port-for-esp32
 ---
 
 ## Overview

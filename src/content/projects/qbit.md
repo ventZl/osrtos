@@ -36,7 +36,7 @@ relatedProjects:
 - nebaura-labs-mote
 - bitclock
 - cuybot-v1-opensource-smartcar-project
-- clawputer
+- open-decabot
 ---
 
 QBIT is a retro-styled robot desk companion designed to act as a personal IoT avatar. Functioning much like a modern BB call, it connects to a centralized network allowing users to interact with one another through "pokes" and text messages. When not actively communicating, the device displays random expressions that reflect its current mood, creating a lively presence on any workspace.

@@ -26,9 +26,9 @@ relatedProjects:
 - omote-open-universal-remote
 - m5apps
 - saturn
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 - wifi-remote-display-adv
 - m5-keyboard-and-mouse-emulator
-- esp32-web-radio-evo3
 ---
 
 ## Overview

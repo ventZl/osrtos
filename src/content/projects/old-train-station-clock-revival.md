@@ -29,7 +29,7 @@ relatedProjects:
 - sanjin-intelligent-mechanical-clock
 - elekstube-ips-custom-firmware
 - atomic-clock-ntp-modification
-- retro-nixie-clock
+- esp8266-secure-weather-clock-tj-56-654
 ---
 
 ## Reviving Vintage Horology with Modern Electronics

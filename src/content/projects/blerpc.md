@@ -32,6 +32,13 @@ topics:
 isShow: false
 createdAt: '2026-07-19T07:14:43+00:00'
 updatedAt: '2026-07-19T07:14:43+00:00'
+relatedProjects:
+- homerpc
+- golden-gate
+- uble-lightweight-bluetooth-low-energy-driver-for-micropython
+- nimble-ota
+- nimble-arduino
+- sensilo-ble-sensor-node
 ---
 
 ## Type-Safe Remote Procedure Calls over BLE

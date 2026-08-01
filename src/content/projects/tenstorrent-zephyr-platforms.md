@@ -26,7 +26,7 @@ relatedProjects:
 - swedish-embedded-platform-sdk
 - bridle
 - blue-clover-plt-demo-v2-zephyr-firmware
-- awesome-zephyr-rtos
+- edge-impulse-sdk-zephyr-module
 ---
 
 Tenstorrent Zephyr Platforms serves as the central firmware development hub for Tenstorrent's AI hardware ecosystem. By leveraging the Zephyr Real-Time Operating System (RTOS), this project provides a robust, scalable foundation for managing the complex requirements of AI ULC (Ultra-Low-Cost) devices.

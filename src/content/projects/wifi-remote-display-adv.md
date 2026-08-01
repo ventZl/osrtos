@@ -29,8 +29,8 @@ relatedProjects:
 - netshlix
 - wifiexe-esp32-s3-based-badusb
 - hyperk
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 - sha2017-badge-firmware
-- upycam
 ---
 
 The **WiFi Remote Display ADV** is a sophisticated utility designed specifically for the M5Stack Cardputer, transforming the compact, keyboard-equipped device into a high-speed remote desktop monitor. Unlike traditional remote desktop clients that require manual software installation on the host, this project utilizes the Cardputer’s USB HID capabilities to "inject" a streaming server directly into a target Windows machine.

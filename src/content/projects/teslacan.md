@@ -34,6 +34,13 @@ topics:
 isShow: false
 createdAt: '2026-07-20T09:55:50+00:00'
 updatedAt: '2026-07-20T09:55:50+00:00'
+relatedProjects:
+- bmw-idrive-controller-can-bus-interpreter
+- esphome-tesla-ble
+- xiaomi-cybergear-arduino-library
+- openhaldex-esp32-c6-haldex-controller
+- esp-can-analyzer
+- bettermochi
 ---
 
 TeslaCAN is a versatile open-source firmware designed for the Waveshare ESP32-C6-LCD-1.47, specifically tailored for Tesla Model 3 and Model Y owners who want deeper integration and control over their vehicle's CAN bus. By plugging into the diagnostic port, TeslaCAN enables a suite of features ranging from automation enhancements to real-time performance monitoring.

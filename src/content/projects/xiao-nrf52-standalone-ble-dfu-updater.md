@@ -19,6 +19,13 @@ topics:
 isShow: true
 createdAt: '2026-07-31T01:36:48+00:00'
 updatedAt: '2026-07-31T01:36:48+00:00'
+relatedProjects:
+- esp32-ble-ota-arduino
+- nimble-ota
+- open-display-firmware
+- bleota-esp32-ota-updates-over-ble
+- multi-firmware-esp
+- epd-nrf5-e-paper-display-calendar-and-photo-frame
 ---
 
 Updating embedded devices in the field often requires a smartphone or a laptop to act as the bridge between the firmware file and the target hardware. The **xiao_nrf52_updater** project offers a specialized alternative: a compact, standalone BLE DFU (Device Firmware Update) client. By running on small-form-factor hardware like the Seeed XIAO nRF52840 or the RAK4631, this tool can be mounted directly onto drones or handheld devices to update hard-to-reach nRF52 repeaters or sensors without external intervention.

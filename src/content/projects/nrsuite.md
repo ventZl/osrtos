@@ -41,6 +41,13 @@ topics:
 isShow: true
 createdAt: '2026-07-20T10:47:23+00:00'
 updatedAt: '2026-07-20T10:47:23+00:00'
+relatedProjects:
+- marauder-centauri
+- wifiexe-esp32-s3-based-badusb
+- esp-hack-fw
+- esp-hosted-open
+- bluetooth-ducky-esp32-hid-injection-tool
+- unigeek-firmware
 ---
 
 ## Bridging the Gap in Android Wireless Research

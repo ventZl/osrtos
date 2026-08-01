@@ -36,11 +36,11 @@ createdAt: '2026-04-26T05:28:18+00:00'
 updatedAt: '2026-04-26T05:28:18+00:00'
 relatedProjects:
 - vfo-esp32-si5351
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 - espri-esp-radio-interface
 - esp32-ble-uart-mx
 - usb-keyboard-and-mouse-bluetooth-adapter-esp32
 - tonex-one-controller
-- gamepad-ps211
 ---
 
 ### Enhancing the IC-705 for Microwave Operation

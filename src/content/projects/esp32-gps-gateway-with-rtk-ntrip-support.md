@@ -25,10 +25,10 @@ updatedAt: '2026-01-25'
 relatedProjects:
 - esp32-ble-uart-mx
 - micropygps
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 - esp32-uart-bridge
 - esp32-sdr-gps-receiver
 - esp32-portapack-esp32pp
-- micropython-for-esp32-with-psram-support-lobo-port
 ---
 
 ## Overview

@@ -34,7 +34,7 @@ relatedProjects:
 - homeiot-smart-home-automation-system
 - room-control-system
 - esp32-freertos-examples
-- openhasp-firmware
+- berbel-bfb-6bt-ble-remote-control-emulator
 ---
 
 ## Overview

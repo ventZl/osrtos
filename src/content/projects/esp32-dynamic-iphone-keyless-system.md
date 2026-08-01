@@ -27,7 +27,7 @@ relatedProjects:
 - esphome-tesla-ble
 - blynk-async-esp32-bt-wf
 - sistema-de-apertura-de-port-n-con-m-dulo-gsm
-- smart-home-automation-with-freertos-and-esp32
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 ---
 
 ## Overview

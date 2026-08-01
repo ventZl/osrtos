@@ -28,9 +28,9 @@ relatedProjects:
 - bugbuster
 - linkscope-bpu-uart-analyzer
 - esp32-bus-pirate
+- clawdmeter-plus
 - sc01-plus-hmi-example-with-squareline-studio
 - lumen
-- clawdmeter
 ---
 
 ## A Versatile Companion for Embedded Development

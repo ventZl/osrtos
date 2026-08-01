@@ -25,11 +25,11 @@ createdAt: '2026-02-14'
 updatedAt: '2026-02-14'
 relatedProjects:
 - battery-health-monitor
+- web3-pi-ups
 - bitclock
 - diy-weather-clock-firmware
 - noteit-uart-datalogger
 - esp32-remote-for-victron
-- shelf-edge-clock
 ---
 
 ## Overview

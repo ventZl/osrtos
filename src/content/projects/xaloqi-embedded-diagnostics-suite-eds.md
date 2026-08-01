@@ -27,6 +27,13 @@ topics:
 isShow: false
 createdAt: '2026-07-22T13:51:40+00:00'
 updatedAt: '2026-07-22T13:51:40+00:00'
+relatedProjects:
+- swedish-embedded-platform-sdk
+- freertos-rust
+- kw1281-diagnosis-tool
+- stm32-base-project-template
+- taskmanager-j2534-bridge
+- enterprise-stm32-platform-development
 ---
 
 Building a Unified Diagnostic Services (UDS) stack from scratch is a notoriously time-consuming endeavor in the embedded world. Engineers often spend weeks handling ISO-TP framing, session state machines, security access, and Data Identifier (DID) dispatching. The Xaloqi Embedded Diagnostics Suite (EDS) aims to reduce this multi-week effort to seconds by providing a configuration-driven workflow for Zephyr RTOS and FreeRTOS applications.

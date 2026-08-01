@@ -22,11 +22,11 @@ createdAt: '2026-02-03'
 updatedAt: '2026-02-03'
 relatedProjects:
 - esphome-tesla-ble
+- berbel-bfb-6bt-ble-remote-control-emulator
 - esphome-hitachi-h-link-ac-component
 - hunter-douglas-powerview-ble-for-home-assistant
 - gaggimate
 - esphome-components-for-miot-devices
-- smart-flask-thermos-with-round-display-and-esp32-c3
 ---
 
 ## Overview

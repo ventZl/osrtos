@@ -24,6 +24,13 @@ topics:
 isShow: false
 createdAt: '2026-07-19T07:14:28+00:00'
 updatedAt: '2026-07-19T07:14:28+00:00'
+relatedProjects:
+- wardriver3000
+- plume-m5cardputer-adv-edition
+- esp32-sniffer
+- esp32-marauder-for-esp32-3248s035c
+- ghostble
+- cardputer-gps-info
 ---
 
 ## Turning the Cardputer into a Portable WiFi Mapping Tool

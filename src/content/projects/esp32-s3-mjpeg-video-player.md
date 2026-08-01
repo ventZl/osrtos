@@ -24,6 +24,13 @@ isShow: true
 image: /202607/esp32video.webp
 createdAt: '2026-07-29T04:14:14+00:00'
 updatedAt: '2026-07-29T04:14:14+00:00'
+relatedProjects:
+- cheap-yellow-display-video-player-esp32-2432s028
+- unigraphic-video-player-for-ili9341v
+- st7735-video-playback-for-stm32
+- melody-machine
+- sonosesp-esp32-p4-sonos-controller
+- esp32-s3-soundfont-sf2-sampler-synthesizer
 ---
 
 The ESP32-S3 MJPEG Video Player is a sophisticated implementation of multimedia playback on a microcontroller, pushing the boundaries of what is typically expected from the ESP32-S3 platform. By combining high-speed JPEG decoding with I2S audio output, this project creates a compact, functional video player capable of smooth playback and synchronized sound.

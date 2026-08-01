@@ -29,6 +29,13 @@ topics:
 isShow: true
 createdAt: '2026-07-31T01:37:49+00:00'
 updatedAt: '2026-07-31T01:37:49+00:00'
+relatedProjects:
+- clawdmeter
+- wt32-sc01-plus-smart-desk-companion
+- ai-desk-card
+- deskpet
+- deskpet-for-m5stack-cardputer
+- smart-flask-thermos-with-round-display-and-esp32-c3
 ---
 
 Clawdmeter Plus is a compact, round AMOLED desk display designed to provide a real-time dashboard for AI development workflows. It specifically tracks Claude Code usage, displays the time and London weather, monitors the health of background agents, and features an animated pixel mascot. The device runs on a Waveshare ESP32-S3-Touch-AMOLED-2.16 and communicates with a macOS daemon over Bluetooth LE. This project is an extension of the original open-source Clawdmeter, adding enhanced status monitoring and audio features.

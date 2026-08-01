@@ -32,7 +32,7 @@ relatedProjects:
 - esp32-portapack-esp32pp
 - zephyr-native-meshtastic-stack
 - esp32-bus-expander
-- meshtnc
+- web3-pi-ups
 ---
 
 ## Overview

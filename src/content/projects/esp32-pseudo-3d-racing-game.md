@@ -21,9 +21,9 @@ relatedProjects:
 - deck
 - esp32-s3-nes-emulator
 - esp32-rex-dinosaur-game-in-rust
+- e-os-esp32-s3-handheld-console
+- esp32-s3-mjpeg-video-player
 - esp32-flight-tracker
-- pixelroot32-game-engine
-- anemoia-esp32
 ---
 
 Classic arcade racing games like *OutRun* or *Pole Position* defined an era with their high-speed pseudo-3D visuals. Recreating that experience on modern microcontrollers requires a clever blend of geometry, sprite manipulation, and efficient rendering pipelines. This project brings that retro aesthetic to the ESP32-S3, delivering a feature-rich racing engine that handles everything from procedural track generation to texture-mapped 3D models.

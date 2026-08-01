@@ -27,8 +27,8 @@ relatedProjects:
 - weather-micro-station-for-t-display-s3
 - esp32-cyd-weather-station-with-3-day-forecast
 - esp32-weatherstationrtc
+- clawdmeter-plus
 - esp32-64-band-audio-spectrum-analyser
-- wt32-sc01-plus-smart-desk-companion
 ---
 
 The ESP8266/ESP32 Spotify OLED Display project is a creative implementation of IoT technologies, turning a small microcontroller and an OLED screen into a functional desktop companion. By leveraging the power of the ESP8266 or ESP32 platforms, this project provides a real-time bridge between the Spotify ecosystem and physical hardware.

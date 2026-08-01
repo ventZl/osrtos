@@ -26,10 +26,10 @@ updatedAt: '2026-01-18'
 relatedProjects:
 - la-marzocco-round-controller
 - flatsphere-clock
+- clawdmeter-plus
 - reflow-oven-with-micropython-lvgl
 - x-knob-a-smart-knob-based-on-lvgl-ui-framework
 - esp32-st7789v-ft6236u-arduino-lvgl-demo
-- esphome-cosori-kettle-ble-component
 ---
 
 ## Overview

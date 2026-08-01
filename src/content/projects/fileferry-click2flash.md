@@ -29,7 +29,7 @@ relatedProjects:
 - esp32-fatfs-image-tool-and-example
 - raccoon-flash-explorer-demo
 - esp32-spartan-edge-spiffs-loader
-- tab5-launcher
+- xiao-nrf52-standalone-ble-dfu-updater
 ---
 
 ## Overview

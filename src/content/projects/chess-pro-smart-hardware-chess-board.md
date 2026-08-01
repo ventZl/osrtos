@@ -40,8 +40,8 @@ relatedProjects:
 - esp32berry
 - tuneoutdisplay
 - project-aura
+- k3ng-cw-keyer-for-esp32-and-pico-2w
 - bbmonitor
-- lumen
 ---
 
 Chess Pro is an ambitious open-source project that bridges the gap between traditional over-the-board chess and the modern digital ecosystem. Built around a Raspberry Pi Zero 2W or Orange Pi Zero 2W, this smart board transforms a physical chess set into a connected device capable of playing online matches on Lichess, analyzing positions with a local Stockfish engine, and providing real-time visual feedback through a combination of displays and LED lighting.

@@ -26,9 +26,9 @@ relatedProjects:
 - micropython-human-interface-device-library
 - micropython-for-the-bbc-micro-bit
 - nimble-arduino
+- blerpc
 - micropython-for-monocle
 - micropython-for-pandora-iot-board
-- micropython-for-bare-metal-raspberry-pi
 ---
 
 ## Overview

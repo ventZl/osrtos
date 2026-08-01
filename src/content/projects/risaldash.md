@@ -39,6 +39,13 @@ topics:
 isShow: true
 createdAt: '2026-07-20T09:56:30+00:00'
 updatedAt: '2026-07-20T09:56:30+00:00'
+relatedProjects:
+- esp-dashboardplus
+- espai-unified-ai-api-client-for-esp32
+- esp-fs-webserver
+- espui
+- configassist-esp32-esp8266
+- esp32-p4-home-assistant-display
 ---
 
 ## Real-Time Dashboards Without the Front-End Overhead

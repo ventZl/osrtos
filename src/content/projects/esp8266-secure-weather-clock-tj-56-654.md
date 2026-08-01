@@ -34,6 +34,13 @@ topics:
 isShow: false
 createdAt: '2026-07-19T07:13:55+00:00'
 updatedAt: '2026-07-19T07:13:55+00:00'
+relatedProjects:
+- diy-weather-clock-firmware
+- elekstube-ips-custom-firmware
+- desk-weather-clock-geekmagic-s3
+- geekmagic-smalltv-esp8266-firmware
+- retrofit-electronic-clock-with-raspberry-pi-pico-w
+- geek-magic-firmware
 ---
 
 The journey of this project began with a common hobbyist purchase: a €5 DIY weather clock kit from AliExpress, model TJ-56-654. While the hardware—comprising an ESP-01S module and a small OLED display—was capable, the original firmware presented a significant security risk. Upon investigation, it was discovered that the device leaked WiFi passwords in plaintext via an open access point that remained active even after configuration. This repository provides a complete, ground-up rewrite of the firmware to transform this inexpensive kit into a secure, feature-rich smart device.

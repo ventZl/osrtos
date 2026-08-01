@@ -30,7 +30,7 @@ relatedProjects:
 - esp32-soundfont-sf2-sampler-synthesizer
 - esp32-custom-hardware-synthesizer
 - stm32f4-digital-synthesizer
-- digital-synth-pra32-u2
+- esp32-s3-mjpeg-video-player
 ---
 
 ## High-Performance Polyphonic Sampling on the ESP32-S3

@@ -34,8 +34,8 @@ relatedProjects:
 - project-aura
 - esp32-s3-smart-home-control-panel
 - esp32-ascom-alpaca-implementation
+- cyd-tactical-weather-station
 - esp32-remote-for-victron
-- wt32-sc01-plus-smart-desk-companion
 ---
 
 The Astronomy Micro Station is a dedicated hardware solution for tracking the sun, moon, and light conditions in real-time. Designed specifically for the LILYGO T-Display S3 Pro, this ESP32-S3 based device provides a comprehensive overview of celestial data, from sunrise and sunset to specific twilight phases and lunar illumination. By fetching data from the ipgeolocation.io Astronomy API and caching it locally, the station remains functional even during temporary network outages.

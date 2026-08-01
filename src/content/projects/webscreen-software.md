@@ -36,7 +36,7 @@ relatedProjects:
 - bitclock
 - bruce-firmware
 - unigeek-firmware
-- openhasp-firmware
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 ---
 
 WebScreen is a hackable, open-source gadget designed for gamers, makers, and creators who want a distraction-free way to stay in the zone. Built on the powerful ESP32-S3 platform, the WebScreen Software provides a complete ecosystem for running custom JavaScript applications on a high-resolution AMOLED display. The project emphasizes modularity, allowing users to easily bridge the gap between high-level scripting and low-level hardware control.

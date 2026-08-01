@@ -29,7 +29,7 @@ relatedProjects:
 - m5cardputer-gps-logger
 - meindatalogger
 - wardriver3000
-- periscope-os-v2-0-0-sigint
+- cardputer-wardriver
 ---
 
 The ESP32-C5 ITS Logger is a specialized tool designed to capture and record Intelligent Transport Systems (ITS) G5, IEEE 802.11p, and V2X (Vehicle-to-Everything) messages. Operating at the 5.9GHz frequency band, this project pushes the ESP32-C5 hardware beyond its standard specifications to monitor vehicular communication, providing a mobile solution for recording data while on the move.

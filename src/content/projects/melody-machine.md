@@ -30,7 +30,7 @@ relatedProjects:
 - atlascube
 - esp32-web-radio-evo3
 - tinyradio9-for-wt32-sc01-plus
-- esper-cdp
+- esp32-s3-mjpeg-video-player
 ---
 
 Melody Machine is a custom firmware designed to transform the LilyGO T-LoRa Pager into a versatile handheld audio device. Built on the ESP32-S3 platform, it provides a comprehensive suite of features for both local media playback and internet-based streaming, all controlled through a polished graphical interface.

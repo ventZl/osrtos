@@ -27,6 +27,13 @@ topics:
 isShow: true
 createdAt: '2026-07-31T01:38:21+00:00'
 updatedAt: '2026-07-31T01:38:21+00:00'
+relatedProjects:
+- klipper-esp32
+- advanced-filament-sensor-for-elegoo-carbon-centauri
+- sha2017-badge-firmware
+- esp32-bus-expander
+- ikedrybox-smart-3d-filament-dryer
+- openspool
 ---
 
 TinyMakerWifi is a modified and extended firmware for the open-source TinyMaker MSLA resin 3D printer. The project’s primary goal is to modernize the user experience by eliminating the need for manual SD card swapping, replacing it with seamless WiFi connectivity, OTA updates, and direct model uploads from popular slicing software like PrusaSlicer.

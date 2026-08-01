@@ -39,9 +39,9 @@ relatedProjects:
 - esp32-cyd-aquarium
 - aquarium-app
 - project-aura
+- luxdmx
 - smart-lighting-system-using-esp32
 - esp32-jarolift-controller
-- svitrix-firmware
 ---
 
 ## Overview

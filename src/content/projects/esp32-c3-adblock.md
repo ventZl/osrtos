@@ -24,6 +24,13 @@ topics:
 isShow: false
 createdAt: '2026-07-20T10:49:25+00:00'
 updatedAt: '2026-07-20T10:49:25+00:00'
+relatedProjects:
+- yaota8266-ota-bootloader
+- asyncdnsserver-rp2040w
+- littlefs-for-esp-idf
+- avr-spiffs
+- esp32-8048s050c-with-lvgl-9-4-and-freertos
+- minimal-mbed-os-template-for-stm32f030
 ---
 
 ## Rethinking DNS Filtering on Embedded Hardware

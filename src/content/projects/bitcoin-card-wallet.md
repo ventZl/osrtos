@@ -28,7 +28,7 @@ relatedProjects:
 - esp32-mfa-authenticator
 - securegen
 - sparkminer
-- sonicrypt
+- purplx-cyberdeck-os-for-m5stack-cardputer-adv
 ---
 
 ## Overview

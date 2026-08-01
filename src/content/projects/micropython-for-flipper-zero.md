@@ -35,9 +35,9 @@ relatedProjects:
 - semito-v-micropython-compatibility-layer-mcl
 - micropython-for-bare-metal-raspberry-pi
 - micropython-port-for-rt-thread
+- micropython-on-the-super-nintendo
 - m5stack-cardputer-virtual-repl
 - micropython-for-sparrow-one-board
-- micropython-kitchen-sink-for-m5stack
 ---
 
 ## Bringing Python to the Flipper Zero
